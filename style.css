@@ -1,0 +1,30 @@
+img {
+	width: 275px;
+	height: 150px;
+}
+
+body {
+	background: url(re.jpg);
+	text-align: center;
+}
+h1 {
+	color: aqua;
+	text-shadow: 0 0 10px red;
+}
+h2 {
+	color: yellow;
+	text-shadow: 0 0 10px blue;
+}
+div {
+	display: inline-block;
+	border: black 5px solid;
+	background: #728aba;
+	padding: 5px;
+}
+a {
+	background: #231657;
+	padding: 5px;
+	color: #d49855;
+	border: #2af018 2px solid;
+	text-decoration: none;
+}
